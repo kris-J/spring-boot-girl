@@ -8,6 +8,7 @@ public class GirlApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GirlApplication.class, args);
+        System.out.println("sdfsdf");
     }
 
 
